@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chsssssss&theme=dark&hide_border=true&ring=AF7BEB60&fire=AF7BEB&currStreakLabel=AF7BEB&sideNums=AF7BEB)](https://git.io/streak-stats)
 ## Hi there 👋
 
 <!--
