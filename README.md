@@ -1,7 +1,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=chsssssss&theme=dark&ring=AF7BEB60&fire=AF7BEB&currStreakLabel=AF7BEB&sideNums=AF7BEB&background=0D1117&border=3D444D)](https://git.io/streak-stats)
 
-[![chsssssss's GitHub stats](https://github-readme-stats.vercel.app/api?username=chsssssss)](https://github.com/chsssssss/github-readme-stats)
-![chsssssss's GitHub stats](https://github-readme-stats.vercel.app/api?username=chsssssss&show_icons=true&theme=transparent&title_color=AF7BEB&text_color=ffffff)
+![chsssssss's GitHub stats](https://github-readme-stats.vercel.app/api?username=chsssssss&show_icons=true&theme=transparent&title_color=AF7BEB&text_color=ffffff&icon_color=AF7BEB)
 ## Hi there 👋
 
 <!--
