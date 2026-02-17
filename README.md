@@ -21,7 +21,6 @@
 ### 모바일 개발
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?logo=xml&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 
 ---
