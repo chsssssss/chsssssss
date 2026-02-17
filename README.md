@@ -134,7 +134,7 @@
 
 ## 📊 GitHub 활동
 
-![Heeseon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chsssssss&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chsssssss&theme=dark&ring=AF7BEB60&fire=AF7BEB&currStreakLabel=AF7BEB&sideNums=AF7BEB&background=20232A&border=3D444D)](https://git.io/streak-stats)
 
 ---
 
