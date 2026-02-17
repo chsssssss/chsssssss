@@ -12,7 +12,6 @@
 
 - 📱 Kotlin 기반 Android 앱 개발 (Jetpack Compose)
 - 🏗 MVVM / MVI 아키텍처 설계에 관심이 많습니다
-- 🔍 데이터 구조와 시스템 관점에서 문제를 해결하는 것을 즐깁니다
 - 🎨 Figma 기반 협업과 UI/UX 개선 경험이 있습니다
 
 ---
